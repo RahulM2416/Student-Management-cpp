@@ -1,6 +1,6 @@
 # 🎓 Student Management System (C++)
 
-A simple console-based **Student Management System** built in C++ to perform basic student operations like adding, displaying, searching, modifying, and deleting student records.
+A simple console-based **Student Management System** built in C++ to perform basic student operations like adding, displaying, searching, & modifying student records.
 
 
 ## 🛠️ Features
