@@ -49,3 +49,5 @@ StudentManagement.exe
 ### Screenshot 03
 ![Screenshot01](https://github.com/RahulM2416/Student-Management-cpp/blob/main/sm3.png)
 
+## Note : 
+Made For Practice Purpose.. 🙂, Thank you..
