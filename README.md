@@ -28,7 +28,7 @@ Make sure you have a C++ compiler like `g++` installed. If not:
 - **On Linux**: Run `sudo apt install g++`
 
 ### 🚀 Compile and Run
-
+- **Linux / Macos:**
 ```bash
 g++ StudentManagement.cpp -o StudentManagement
 ./StudentManagement
@@ -38,3 +38,4 @@ g++ StudentManagement.cpp -o StudentManagement
 g++ StudentManagement.cpp -o StudentManagement.exe
 StudentManagement.exe
 ```
+
